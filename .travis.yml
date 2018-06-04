@@ -1,2 +1,2 @@
 language: python
-script: hello_python.py
+script: py.test
